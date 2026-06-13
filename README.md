@@ -1,4 +1,4 @@
-# 🤖 AI PDF Assistant - RAG Application
+# DocMind — PDF Intelligence
 
 A Retrieval-Augmented Generation (RAG) application built using **LangChain**, **Mistral AI**, **ChromaDB**, and **Streamlit** that allows users to upload PDF documents and interact with them using natural language queries.
 
