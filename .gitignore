@@ -1,0 +1,5 @@
+.env
+venv\
+document loader\
+retrivers\
+vector store\
